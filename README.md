@@ -8,7 +8,7 @@ I'm currently learning Machine Learning Engineering, with a strong focus on buil
 </p>
 
 <p>
-My learning journey includes Python, PyTorch, TensorFlow, data structures and algorithms, linear algebra, calculus, probability, optimization, and machine learning theory to develop both theoretical understanding and practical engineering skills.
+My learning journey includes Python, PyTorch, TensorFlow, data structures and algorithms, linear algebra, calculus, probability, optimization, and machine learning theory. I'm focused on building both a strong understanding of the fundamentals and the practical skills needed to develop real-world machine learning systems.
 </p>
 
 <p>
