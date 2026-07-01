@@ -1,10 +1,19 @@
+<h1 align="center">Hi 👋, I'm Medhat</h1>
+<h3 align="center">Machine Learning Engineer</h3>
 
-#                                       HI 👋 I'm Medhat
-#                                    Machine Learning Engineer
+<h2>💫 About Me</h2>
 
-# 💫 About Me:
-I'm currently learning Machine Learning Engineering, with a focus on building a strong foundation in mathematics, machine learning, deep learning, scientific machine learning, and AI systems. I'm studying Python, PyTorch, TensorFlow, data structures and algorithms, linear algebra, calculus, probability, optimization, and machine learning theory. I'm also exploring Physics-Informed Neural Networks (PINNs), scientific computing, model deployment, and modern AI engineering practices while building practical projects to strengthen my skills.<br>
+<p>
+I'm currently learning Machine Learning Engineering, with a strong focus on building a solid foundation in mathematics, machine learning, deep learning, scientific machine learning, and AI systems.
+</p>
 
+<p>
+My learning journey includes Python, PyTorch, TensorFlow, data structures and algorithms, linear algebra, calculus, probability, optimization, and machine learning theory to develop both theoretical understanding and practical engineering skills.
+</p>
+
+<p>
+I'm also exploring Physics-Informed Neural Networks (PINNs), scientific computing, model deployment, and modern AI engineering practices while building hands-on projects that strengthen my understanding and prepare me for solving real-world engineering problems.
+</p>
 
 
 
