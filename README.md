@@ -1,8 +1,11 @@
 
-#                   HI 👋 I'm Medhat
+#                                       HI 👋 I'm Medhat
+#                                    Machine Learning Engineer
 
 # 💫 About Me:
 I'm currently learning Machine Learning Engineering, with a focus on building a strong foundation in mathematics, machine learning, deep learning, scientific machine learning, and AI systems. I'm studying Python, PyTorch, TensorFlow, data structures and algorithms, linear algebra, calculus, probability, optimization, and machine learning theory. I'm also exploring Physics-Informed Neural Networks (PINNs), scientific computing, model deployment, and modern AI engineering practices while building practical projects to strengthen my skills.<br>
+
+
 
 
 # 💻 Tech Stack:
